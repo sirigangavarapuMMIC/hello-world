@@ -1,2 +1,3 @@
 # hello-world
 First repository creation for learning experience
+I am siri working as developer for MMIC and committed to acheive success in every role I accepted...
